@@ -1,4 +1,4 @@
-SpringMVCDemo Application
+Spring MVC Demo Application
 =============
 1. This application demostrates using the Spring MVC with other thechnologies like hibernate, junit & log4j.
 2. This application also demonstrates use of java based configuration instead of using xml's for configurations.
