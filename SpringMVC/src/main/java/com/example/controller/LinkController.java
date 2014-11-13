@@ -13,13 +13,13 @@ public class LinkController {
 	
 	@RequestMapping(value="/")
 	public ModelAndView mainPage() {
-		logger.debug("Requested for home page");
+		logger.debug("Requested for home page..");
 		return new ModelAndView("home");
 	}
 	
 	@RequestMapping(value="/index")
 	public ModelAndView indexPage() {
-		logger.debug("Requested for home page");
+		logger.debug("Requested for home page..");
 		return new ModelAndView("home");
 	}
 }
